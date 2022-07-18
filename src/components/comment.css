@@ -1,0 +1,27 @@
+.comments-container {
+    padding: 10px;
+}
+
+.input {
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+
+.btn {
+    padding: 10px;
+    background: skyblue;
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+
+.reply {
+    padding: 20px;
+}
+
+a {
+    cursor: pointer;
+    color: blue;
+    font-size: 15px;
+}
